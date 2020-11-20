@@ -1,3 +1,3 @@
 # Paradoxic_Addon
 Resource Pack For MC
-Designed for the ParadoxSMP server.
+Designed for use on the ParadoxSMP server.
